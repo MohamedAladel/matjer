@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "156016551293",
+    "project_id": "matjer-44629",
+    "firebase_url": "https://matjer-44629-default-rtdb.europe-west1.firebasedatabase.app/",
+    "storage_bucket": "matjer-44629.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156016551293:android:2e6d21191e3e2408ea5814",
+        "android_client_info": {
+          "package_name": "com.example.matjer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156016551293-sevj2pi9478lb4hp8vl6lkef5crfi5pr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.matjer",
+            "certificate_hash": "9ee7f31727da688a6dc75c40e1a7b1ad49bac4e2"
+          }
+        },
+        {
+          "client_id": "156016551293-t3vcddu0c6cn64nfqkt91e5fu0kdp57a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm0HBM2OfwrEEyuOY7BOTkvUkDblVynZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156016551293-t3vcddu0c6cn64nfqkt91e5fu0kdp57a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
